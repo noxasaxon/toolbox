@@ -34,7 +34,6 @@ html_static_path = ["_static"]
 
 sys.path.insert(0, os.path.abspath(os.path.join("..", "..", "src")))
 
-# extensions = ["sphinx.ext.autodoc", "sphinx.ext.napoleon"]
 
 extensions = [
     "sphinx.ext.autodoc",

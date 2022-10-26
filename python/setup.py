@@ -1,5 +1,5 @@
 """
-Python Boilerplate Sample Setup
+Toolbox Setup
 """
 
 from setuptools import setup

@@ -12,12 +12,6 @@ Welcome to toolbox's documentation!
 
    modules
 
-.. automodule:: src
-   :imported-members:
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 Indices and tables
 ==================
 

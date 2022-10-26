@@ -19,7 +19,7 @@
 
 #### Defined in
 
-src/environment.ts:9
+[src/environment.ts:9](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/environment.ts#L9)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-src/environment.ts:8
+[src/environment.ts:8](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/environment.ts#L8)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-src/environment.ts:11
+[src/environment.ts:11](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/environment.ts#L11)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-src/environment.ts:10
+[src/environment.ts:10](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/environment.ts#L10)

@@ -39,7 +39,7 @@ A Branded Type for values parseable to number.
 
 #### Defined in
 
-[src/index.ts:8](https://github.com/noxasaxon/toolbox/blob/a437541/typescript/src/index.ts#L8)
+[src/index.ts:8](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/index.ts#L8)
 
 ## Variables
 
@@ -49,7 +49,7 @@ A Branded Type for values parseable to number.
 
 #### Defined in
 
-src/environment.ts:5
+[src/environment.ts:5](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/environment.ts#L5)
 
 ## Functions
 
@@ -70,7 +70,7 @@ src/environment.ts:5
 
 #### Defined in
 
-src/environment.ts:14
+[src/environment.ts:14](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/environment.ts#L14)
 
 ___
 
@@ -103,7 +103,7 @@ const response = responseResult.value;
 
 #### Defined in
 
-src/http.ts:106
+[src/http.ts:106](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/http.ts#L106)
 
 ___
 
@@ -135,7 +135,7 @@ const response = responseResult.value;
 
 #### Defined in
 
-src/http.ts:71
+[src/http.ts:71](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/http.ts#L71)
 
 ___
 
@@ -166,7 +166,7 @@ const response = responseResult.value;
 
 #### Defined in
 
-src/http.ts:48
+[src/http.ts:48](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/http.ts#L48)
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 #### Defined in
 
-src/http.ts:18
+[src/http.ts:18](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/http.ts#L18)
 
 ___
 
@@ -202,7 +202,7 @@ Read env var `ENVIRONMNENT`, raises an error if not set or not valid environment
 
 #### Defined in
 
-src/environment.ts:58
+[src/environment.ts:58](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/environment.ts#L58)
 
 ___
 
@@ -227,7 +227,7 @@ Result type
 
 #### Defined in
 
-src/environment.ts:22
+[src/environment.ts:22](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/environment.ts#L22)
 
 ___
 
@@ -263,7 +263,7 @@ value is NumberParseable
 
 #### Defined in
 
-[src/index.ts:28](https://github.com/noxasaxon/toolbox/blob/a437541/typescript/src/index.ts#L28)
+[src/index.ts:28](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/index.ts#L28)
 
 ___
 
@@ -323,4 +323,4 @@ A Result containing the contents of the file, or an error message.
 
 #### Defined in
 
-src/environment.ts:40
+[src/environment.ts:40](https://github.com/noxasaxon/toolbox/blob/ad12229/typescript/src/environment.ts#L40)
